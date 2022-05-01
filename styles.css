@@ -1,7 +1,11 @@
-body {
-  height: 100vh;
-  background: linear-gradient(180deg, rgba(255, 252, 197, 0) 0%, rgba(255, 252, 197, 0.317708) 31.77%, #FFFCC5 100%);
+html body {
+  height: 100%;
+}
 
+body {
+  height: 100%;
+  background: linear-gradient(180deg, rgba(255, 252, 197, 0) 0%, rgba(255, 252, 197, 0.317708) 31.77%, #FFFCC5 100%);
+  background-attachment: fixed;
   font-family: 'Lato', sans-serif;
 }
 
